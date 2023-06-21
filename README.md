@@ -1,0 +1,3 @@
+# VisionVoyager
+
+Delve into the captivating world of Computer Vision with this collection of beginner-friendly projects. Explore various image processing techniques, from setting up your base camera and creating interactive trackbars to understanding mouse events using functions. Dive into the realm of pattern recognition by generating chess boards using for loops and selecting regions of interest. Learn about color space conversions, including converting from HSV to BGR and grayscale. Get creative with a colorful display of the rainbow spectrum and discover how numbers can be transformed into captivating images. This repository is designed to provide hands-on experience and build a solid foundation in the exciting field of Computer Vision
